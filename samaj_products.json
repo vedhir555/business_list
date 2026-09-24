@@ -3,7 +3,7 @@
   "version": "2.0",
   "description": "Complete global product directory — physical goods, commodities and manufactured items",
   "total_sectors": 28,
-  "total_items": 8571,
+  "total_items": 8580,
   "sectors": [
     {
       "id": "S01",
@@ -3555,7 +3555,7 @@
       "id": "S09",
       "sector": "Apparel, Garments & Fashion",
       "icon": "hanger",
-      "total_items": 559,
+      "total_items": 568,
       "groups": [
         {
           "group": "Men's Wear",
@@ -3653,7 +3653,12 @@
             "Uniform Shirt",
             "Uniform Trousers",
             "Overalls",
-            "Bandi Jacket"
+            "Bandi Jacket",
+            "Pant",
+            "Jeans",
+            "Lower",
+            "Nicker",
+            "Gamchha"
           ]
         },
         {
@@ -3806,7 +3811,9 @@
             "Kids Raincoat",
             "Newborn Clothing",
             "Christening Dress",
-            "Fancy Dress Costume"
+            "Fancy Dress Costume",
+            "Kids Nicker",
+            "Jangiya"
           ]
         },
         {
@@ -4074,7 +4081,8 @@
             "Shirt Piece",
             "Trouser Piece",
             "Suiting Fabric",
-            "Shirting Fabric"
+            "Shirting Fabric",
+            "Chorno"
           ]
         },
         {
@@ -4105,7 +4113,8 @@
             "Robe",
             "Bath Robe",
             "Lounge Wear",
-            "Baby Vests"
+            "Baby Vests",
+            "Langot"
           ]
         },
         {
