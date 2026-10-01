@@ -1,0 +1,1214 @@
+{
+"hints": {
+"pant": [
+"men_s_clothing_store",
+"women_s_clothing_store",
+"children_s_clothing_store",
+"clothing_store",
+"jeans_shop"
+],
+"shirt": [
+"men_s_clothing_store",
+"clothing_store",
+"tailor"
+],
+"kapda": [
+"clothing_store",
+"fabric_store",
+"textile_mill",
+"men_s_clothing_store",
+"women_s_clothing_store"
+],
+"saree": [
+"saree_shop",
+"women_s_clothing_store",
+"clothing_store"
+],
+"kurti": [
+"women_s_clothing_store",
+"clothing_store"
+],
+"garment": [
+"clothing_store",
+"garment_exporter",
+"clothing_wholesaler"
+],
+"cloth": [
+"clothing_store",
+"fabric_store"
+],
+"tailor": [
+"tailor",
+"clothing_alteration_service",
+"dressmaker"
+],
+"silai": [
+"tailor",
+"dressmaker",
+"clothing_alteration_service"
+],
+"boutique": [
+"boutique",
+"women_s_clothing_store"
+],
+"shoe": [
+"shoe_store",
+"footwear_wholesaler"
+],
+"chappal": [
+"shoe_store",
+"footwear_wholesaler"
+],
+"footwear": [
+"shoe_store",
+"footwear_wholesaler"
+],
+"bag": [
+"bag_shop",
+"luggage_store"
+],
+"jewellery": [
+"jewelry_store",
+"jewelry_manufacturer"
+],
+"sonar": [
+"jewelry_store",
+"gold_dealer"
+],
+"gold": [
+"gold_dealer",
+"jewelry_store"
+],
+"silver": [
+"jewelry_store"
+],
+"watch": [
+"watch_store",
+"watch_repair_service"
+],
+"optical": [
+"optician",
+"eye_care_center"
+],
+"chashma": [
+"optician"
+],
+"mobile": [
+"cell_phone_store",
+"mobile_phone_repair_shop",
+"cell_phone_accessory_store"
+],
+"phone": [
+"cell_phone_store",
+"mobile_phone_repair_shop"
+],
+"recharge": [
+"cell_phone_store",
+"telecommunications_service_provider"
+],
+"laptop": [
+"computer_store",
+"computer_repair_service"
+],
+"computer": [
+"computer_store",
+"computer_repair_service"
+],
+"tv": [
+"electronics_store",
+"appliance_store",
+"television_repair_service"
+],
+"fridge": [
+"appliance_store",
+"appliance_repair_service"
+],
+"ac": [
+"air_conditioning_store",
+"air_conditioning_repair_service",
+"air_conditioning_contractor"
+],
+"electronic": [
+"electronics_store",
+"electronic_parts_supplier"
+],
+"electrical": [
+"electrical_supply_store",
+"electrician",
+"electrical_installation_service"
+],
+"electrician": [
+"electrician",
+"electrical_installation_service"
+],
+"bijli": [
+"electrician",
+"electrical_supply_store"
+],
+"fan": [
+"electrical_supply_store",
+"appliance_store"
+],
+"light": [
+"lighting_store",
+"electrical_supply_store"
+],
+"inverter": [
+"battery_store",
+"electrical_supply_store"
+],
+"battery": [
+"battery_store"
+],
+"solar": [
+"solar_energy_company",
+"solar_energy_equipment_supplier"
+],
+"kirana": [
+"grocery_store",
+"general_store",
+"convenience_store",
+"supermarket"
+],
+"grocery": [
+"grocery_store",
+"supermarket",
+"convenience_store"
+],
+"provision": [
+"grocery_store",
+"general_store"
+],
+"general": [
+"general_store",
+"grocery_store"
+],
+"supermarket": [
+"supermarket",
+"grocery_store"
+],
+"sabji": [
+"greengrocer",
+"vegetable_wholesaler",
+"grocery_store"
+],
+"vegetable": [
+"greengrocer",
+"vegetable_wholesaler"
+],
+"fruit": [
+"fruit_and_vegetable_store",
+"fruit_wholesaler",
+"greengrocer"
+],
+"dairy": [
+"dairy_store",
+"dairy_farm",
+"dairy"
+],
+"milk": [
+"dairy_store",
+"dairy"
+],
+"doodh": [
+"dairy_store",
+"dairy"
+],
+"dudh": [
+"dairy_store",
+"dairy"
+],
+"bakery": [
+"bakery",
+"cake_shop"
+],
+"cake": [
+"cake_shop",
+"bakery"
+],
+"sweet": [
+"indian_sweets_shop",
+"indian_sweets_shop",
+"confectionery_store"
+],
+"mithai": [
+"indian_sweets_shop",
+"indian_sweets_shop"
+],
+"farsan": [
+"snack_bar",
+"indian_sweets_shop"
+],
+"namkeen": [
+"snack_bar",
+"indian_sweets_shop"
+],
+"restaurant": [
+"restaurant",
+"indian_restaurant",
+"vegetarian_restaurant"
+],
+"hotel": [
+"hotel",
+"restaurant",
+"lodging"
+],
+"food": [
+"restaurant",
+"fast_food_restaurant",
+"food_court"
+],
+"khana": [
+"restaurant",
+"indian_restaurant",
+"tiffin_center"
+],
+"tiffin": [
+"tiffin_center",
+"caterer"
+],
+"dhaba": [
+"dhaba",
+"restaurant"
+],
+"pizza": [
+"pizza_restaurant",
+"pizza_delivery"
+],
+"burger": [
+"hamburger_restaurant",
+"fast_food_restaurant"
+],
+"chai": [
+"tea_house",
+"tea_store",
+"coffee_shop"
+],
+"tea": [
+"tea_house",
+"tea_store"
+],
+"coffee": [
+"coffee_shop",
+"coffee_store"
+],
+"juice": [
+"juice_shop",
+"smoothie_shop"
+],
+"icecream": [
+"ice_cream_shop"
+],
+"catering": [
+"caterer",
+"catering_food_and_drink_supplier"
+],
+"caterer": [
+"caterer"
+],
+"medical": [
+"pharmacy",
+"medical_clinic",
+"medical_supply_store"
+],
+"medicine": [
+"pharmacy",
+"drug_store"
+],
+"dawa": [
+"pharmacy",
+"drug_store"
+],
+"chemist": [
+"pharmacy",
+"drug_store"
+],
+"pharmacy": [
+"pharmacy",
+"drug_store"
+],
+"doctor": [
+"doctor",
+"general_practitioner",
+"medical_clinic"
+],
+"clinic": [
+"medical_clinic",
+"doctor"
+],
+"hospital": [
+"hospital",
+"private_hospital",
+"general_hospital"
+],
+"dentist": [
+"dentist",
+"dental_clinic"
+],
+"dant": [
+"dentist",
+"dental_clinic"
+],
+"eye": [
+"eye_care_center",
+"ophthalmologist",
+"optician"
+],
+"lab": [
+"medical_laboratory",
+"diagnostic_center"
+],
+"pathology": [
+"medical_laboratory",
+"diagnostic_center"
+],
+"xray": [
+"diagnostic_center",
+"radiologist"
+],
+"physio": [
+"physical_therapist",
+"physiotherapy_equipment_supplier"
+],
+"ayurvedic": [
+"ayurvedic_clinic",
+"homeopathic_pharmacy"
+],
+"homeopathy": [
+"homeopath",
+"homeopathic_pharmacy"
+],
+"veterinary": [
+"veterinarian",
+"veterinary_pharmacy"
+],
+"pashu": [
+"veterinarian",
+"animal_feed_store"
+],
+"school": [
+"school",
+"primary_school",
+"secondary_school"
+],
+"college": [
+"college",
+"university"
+],
+"tuition": [
+"tutoring_service",
+"coaching_center",
+"private_tutor"
+],
+"coaching": [
+"coaching_center",
+"tutoring_service"
+],
+"class": [
+"coaching_center",
+"tutoring_service"
+],
+"computer class": [
+"computer_training_school"
+],
+"playschool": [
+"preschool",
+"nursery_school"
+],
+"library": [
+"library"
+],
+"book": [
+"book_store",
+"stationery_store"
+],
+"stationery": [
+"stationery_store",
+"office_supply_store"
+],
+"xerox": [
+"copy_shop",
+"print_shop"
+],
+"photocopy": [
+"copy_shop",
+"print_shop"
+],
+"printing": [
+"print_shop",
+"commercial_printer"
+],
+"flex": [
+"sign_shop",
+"print_shop"
+],
+"banner": [
+"sign_shop",
+"print_shop"
+],
+"photo": [
+"photographer",
+"photography_studio",
+"photo_shop"
+],
+"photographer": [
+"photographer",
+"wedding_photographer"
+],
+"studio": [
+"photography_studio",
+"recording_studio"
+],
+"video": [
+"video_production_service",
+"photographer"
+],
+"wedding": [
+"wedding_planner",
+"wedding_venue",
+"wedding_photographer"
+],
+"event": [
+"event_planner",
+"event_venue"
+],
+"decorator": [
+"event_planner",
+"party_equipment_rental_service"
+],
+"tent": [
+"party_equipment_rental_service",
+"tent_rental_service"
+],
+"dj": [
+"dj_service",
+"event_planner"
+],
+"banquet": [
+"banquet_hall",
+"wedding_venue"
+],
+"party plot": [
+"wedding_venue",
+"banquet_hall"
+],
+"hall": [
+"banquet_hall",
+"event_venue"
+],
+"dharamshala": [
+"lodge",
+"guest_house"
+],
+"lodge": [
+"lodge",
+"guest_house"
+],
+"resort": [
+"resort_hotel",
+"hotel"
+],
+"travel": [
+"travel_agency",
+"tour_agency"
+],
+"tour": [
+"tour_agency",
+"travel_agency"
+],
+"ticket": [
+"travel_agency",
+"bus_ticket_agency"
+],
+"bus": [
+"bus_company",
+"bus_ticket_agency",
+"bus_charter"
+],
+"taxi": [
+"taxi_service",
+"taxi_stand"
+],
+"cab": [
+"taxi_service",
+"taxi_stand"
+],
+"transport": [
+"transportation_service",
+"trucking_company",
+"freight_forwarding_service"
+],
+"truck": [
+"trucking_company",
+"truck_dealer"
+],
+"tempo": [
+"trucking_company",
+"transportation_service"
+],
+"courier": [
+"courier_service",
+"delivery_service"
+],
+"parcel": [
+"courier_service",
+"delivery_service"
+],
+"packers": [
+"moving_service",
+"moving_and_storage_service"
+],
+"movers": [
+"moving_service",
+"moving_and_storage_service"
+],
+"bike": [
+"motorcycle_dealer",
+"motorcycle_repair_shop",
+"motorcycle_shop"
+],
+"motorcycle": [
+"motorcycle_dealer",
+"motorcycle_repair_shop"
+],
+"scooter": [
+"motorcycle_dealer",
+"motorcycle_repair_shop"
+],
+"car": [
+"car_dealer",
+"car_repair_and_maintenance_service",
+"used_car_dealer"
+],
+"garage": [
+"auto_repair_shop",
+"car_repair_and_maintenance_service"
+],
+"mechanic": [
+"auto_repair_shop",
+"motorcycle_repair_shop"
+],
+"puncture": [
+"tire_repair_shop",
+"tire_shop"
+],
+"tyre": [
+"tire_shop",
+"tire_repair_shop"
+],
+"tire": [
+"tire_shop",
+"tire_repair_shop"
+],
+"petrol": [
+"gas_station",
+"fuel_supplier"
+],
+"pump": [
+"gas_station",
+"water_pump_supplier"
+],
+"cng": [
+"gas_station",
+"compressed_natural_gas_station"
+],
+"carwash": [
+"car_wash"
+],
+"spare": [
+"auto_parts_store",
+"motorcycle_parts_store"
+],
+"showroom": [
+"car_dealer",
+"motorcycle_dealer"
+],
+"tractor": [
+"tractor_dealer",
+"farm_equipment_supplier",
+"agricultural_machinery_manufacturer"
+],
+"kheti": [
+"agricultural_service",
+"farm_equipment_supplier"
+],
+"khad": [
+"fertilizer_supplier",
+"agricultural_service"
+],
+"fertilizer": [
+"fertilizer_supplier",
+"feed_manufacturer"
+],
+"seeds": [
+"seed_supplier",
+"agricultural_service"
+],
+"beej": [
+"seed_supplier",
+"agricultural_service"
+],
+"pesticide": [
+"agricultural_service",
+"fertilizer_supplier"
+],
+"cattle": [
+"cattle_farm",
+"animal_feed_store"
+],
+"poultry": [
+"poultry_farm",
+"poultry_store"
+],
+"farm": [
+"farm",
+"agricultural_service"
+],
+"cement": [
+"cement_supplier",
+"building_materials_store"
+],
+"sariya": [
+"steel_distributor",
+"building_materials_store"
+],
+"steel": [
+"steel_distributor",
+"steel_fabricator"
+],
+"iron": [
+"steel_distributor",
+"iron_works"
+],
+"hardware": [
+"hardware_store",
+"building_materials_store"
+],
+"paint": [
+"paint_store",
+"painter"
+],
+"colour": [
+"paint_store",
+"painter"
+],
+"tile": [
+"tile_store",
+"tile_manufacturer",
+"tile_contractor"
+],
+"marble": [
+"marble_supplier",
+"stone_supplier"
+],
+"granite": [
+"granite_supplier",
+"stone_supplier"
+],
+"sanitary": [
+"plumbing_supply_store",
+"bathroom_supply_store"
+],
+"plumber": [
+"plumber",
+"plumbing_supply_store"
+],
+"nal": [
+"plumber",
+"plumbing_supply_store"
+],
+"furniture": [
+"furniture_store",
+"furniture_manufacturer"
+],
+"carpenter": [
+"carpenter",
+"furniture_maker"
+],
+"sutar": [
+"carpenter",
+"furniture_maker"
+],
+"wood": [
+"plywood_supplier",
+"wood_supplier"
+],
+"plywood": [
+"plywood_supplier",
+"building_materials_store"
+],
+"glass": [
+"glass_shop",
+"glass_merchant"
+],
+"aluminium": [
+"aluminum_supplier",
+"aluminum_window"
+],
+"interior": [
+"interior_designer",
+"interior_decorator"
+],
+"architect": [
+"architect",
+"architecture_firm"
+],
+"builder": [
+"construction_company",
+"home_builder"
+],
+"contractor": [
+"general_contractor",
+"interior_construction_contractor"
+],
+"construction": [
+"construction_company",
+"general_contractor"
+],
+"mason": [
+"masonry_contractor",
+"general_contractor"
+],
+"welding": [
+"welder",
+"welding_supply_store"
+],
+"fabrication": [
+"metal_fabricator",
+"steel_fabricator"
+],
+"borewell": [
+"well_drilling_contractor",
+"drilling_contractor"
+],
+"water": [
+"drinking_water_supplier",
+"water_purification_company",
+"water_filter_supplier"
+],
+"ro": [
+"water_purification_company",
+"water_filter_supplier"
+],
+"tanker": [
+"drinking_water_supplier",
+"bottled_water_supplier"
+],
+"gas": [
+"gas_company",
+"gas_cylinders_supplier"
+],
+"cylinder": [
+"gas_cylinders_supplier",
+"gas_company"
+],
+"salon": [
+"beauty_salon",
+"hair_salon"
+],
+"parlour": [
+"beauty_salon",
+"beauty_supply_store"
+],
+"parlor": [
+"beauty_salon",
+"beauty_supply_store"
+],
+"beauty": [
+"beauty_salon",
+"beauty_supply_store"
+],
+"hair": [
+"hair_salon",
+"barber_shop"
+],
+"nai": [
+"barber_shop",
+"hair_salon"
+],
+"barber": [
+"barber_shop",
+"hair_salon"
+],
+"mehndi": [
+"mehndi_designer",
+"beauty_salon"
+],
+"spa": [
+"spa",
+"massage_spa"
+],
+"massage": [
+"massage_therapist",
+"massage_spa"
+],
+"gym": [
+"gym",
+"fitness_center"
+],
+"yoga": [
+"yoga_studio",
+"yoga_instructor"
+],
+"sports": [
+"sporting_goods_store",
+"sports_club"
+],
+"cricket": [
+"cricket_club",
+"sporting_goods_store"
+],
+"ground": [
+"sports_complex",
+"sports_club"
+],
+"toy": [
+"toy_store",
+"gift_shop"
+],
+"gift": [
+"gift_shop",
+"gift_wrap_store"
+],
+"florist": [
+"florist",
+"flower_market"
+],
+"flower": [
+"florist",
+"flower_market"
+],
+"phool": [
+"florist",
+"flower_market"
+],
+"pooja": [
+"religious_goods_store",
+"florist"
+],
+"temple": [
+"hindu_temple"
+],
+"mandir": [
+"hindu_temple"
+],
+"mosque": [
+"mosque"
+],
+"church": [
+"church"
+],
+"jain": [
+"jain_temple"
+],
+"pandit": [
+"hindu_priest",
+"astrologer"
+],
+"astrologer": [
+"astrologer"
+],
+"jyotish": [
+"astrologer"
+],
+"bank": [
+"bank",
+"cooperative_bank"
+],
+"atm": [
+"atm",
+"bank"
+],
+"loan": [
+"loan_agency",
+"finance_broker"
+],
+"finance": [
+"financial_institution",
+"loan_agency"
+],
+"insurance": [
+"insurance_agency",
+"insurance_company"
+],
+"lic": [
+"insurance_agency",
+"life_insurance_agency"
+],
+"ca": [
+"accountant",
+"chartered_accountant"
+],
+"accountant": [
+"accountant",
+"tax_preparation_service"
+],
+"tax": [
+"tax_preparation_service",
+"accountant"
+],
+"gst": [
+"tax_preparation_service",
+"accountant"
+],
+"lawyer": [
+"lawyer",
+"law_firm"
+],
+"advocate": [
+"lawyer",
+"law_firm"
+],
+"notary": [
+"notary_public",
+"lawyer"
+],
+"vakil": [
+"lawyer",
+"law_firm"
+],
+"property": [
+"real_estate_agency",
+"real_estate_agent"
+],
+"plot": [
+"real_estate_agency",
+"real_estate_developer"
+],
+"flat": [
+"real_estate_agency",
+"apartment_complex"
+],
+"rent": [
+"real_estate_rental_agency",
+"equipment_rental_agency"
+],
+"estate": [
+"real_estate_agency",
+"real_estate_agent"
+],
+"broker": [
+"real_estate_agent",
+"insurance_broker"
+],
+"cyber": [
+"internet_cafe",
+"computer_service"
+],
+"internet": [
+"internet_cafe",
+"internet_service_provider"
+],
+"wifi": [
+"internet_service_provider"
+],
+"cable": [
+"cable_company",
+"television_repair_service"
+],
+"dth": [
+"satellite_communication_service",
+"television_repair_service"
+],
+"cctv": [
+"security_system_installation_service",
+"security_system_supplier"
+],
+"security": [
+"security_guard_service",
+"security_system_installation_service"
+],
+"software": [
+"software_company",
+"computer_consultant"
+],
+"website": [
+"website_designer",
+"web_hosting_company"
+],
+"marketing": [
+"marketing_agency",
+"advertising_agency"
+],
+"advertising": [
+"advertising_agency",
+"sign_shop"
+],
+"nursery": [
+"plant_nursery",
+"garden_center"
+],
+"garden": [
+"garden_center",
+"landscaper"
+],
+"pet": [
+"pet_store",
+"veterinarian"
+],
+"laundry": [
+"laundry_service",
+"dry_cleaner"
+],
+"dhobi": [
+"laundry_service",
+"dry_cleaner"
+],
+"pest": [
+"pest_control_service"
+],
+"cleaning": [
+"house_cleaning_service",
+"cleaning_products_supplier"
+],
+"kabadi": [
+"scrap_metal_dealer",
+"recycling_center"
+],
+"scrap": [
+"scrap_metal_dealer",
+"recycling_center"
+],
+"bartan": [
+"kitchen_supply_store",
+"kitchen_furniture_store"
+],
+"utensil": [
+"kitchen_supply_store",
+"glassware_store"
+],
+"kitchen": [
+"kitchen_supply_store",
+"kitchen_remodeler"
+],
+"mattress": [
+"mattress_store",
+"furniture_store"
+],
+"curtain": [
+"curtain_store",
+"home_goods_store"
+],
+"carpet": [
+"carpet_store",
+"rug_store"
+],
+"plastic": [
+"plastic_products_supplier",
+"plastic_products_wholesaler"
+],
+"packaging": [
+"packaging_supply_store",
+"packaging_company"
+],
+"oil": [
+"oil_refinery",
+"olive_oil_manufacturer"
+],
+"flour": [
+"flour_mill",
+"rice_mill"
+],
+"chakki": [
+"flour_mill",
+"rice_mill"
+],
+"anaj": [
+"rice_shop",
+"grocery_store"
+],
+"rice": [
+"rice_wholesaler",
+"rice_shop"
+],
+"masala": [
+"spice_store",
+"spice_wholesaler"
+],
+"spice": [
+"spice_store",
+"spice_wholesaler"
+],
+"dryfruit": [
+"nut_store",
+"nut_store"
+],
+"pan": [
+"tobacco_shop",
+"convenience_store"
+],
+"paan": [
+"tobacco_shop",
+"convenience_store"
+],
+"liquor": [
+"liquor_store"
+],
+"textile": [
+"textile_mill",
+"textile_mill",
+"fabric_store"
+],
+"factory": [
+"manufacturer",
+"factory_equipment_supplier"
+],
+"manufacturer": [
+"manufacturer"
+],
+"wholesale": [
+"wholesaler",
+"wholesale_market"
+],
+"dealer": [
+"distribution_service",
+"wholesaler"
+],
+"export": [
+"exporter",
+"import_export_company"
+],
+"ngo": [
+"non_profit_organization",
+"charity"
+],
+"trust": [
+"non_profit_organization",
+"charity"
+],
+"sanstha": [
+"non_profit_organization",
+"cultural_association"
+],
+"mandal": [
+"cultural_association",
+"community_center"
+],
+"samaj": [
+"community_center",
+"cultural_association"
+],
+"panchayat": [
+"government_office",
+"village_hall"
+],
+"police": [
+"government_office"
+],
+"post": [
+"post_office"
+],
+"school bus": [
+"school_bus_service",
+"bus_company"
+],
+"stand": [
+"bus_depot",
+"taxi_stand"
+],
+"station": [
+"bus_company",
+"bus_depot"
+]
+}
+}
